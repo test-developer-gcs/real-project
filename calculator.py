@@ -4,7 +4,7 @@ def add(a, b):
 
 
 def subtract(a, b):
-    return a + b  # Bug: should be subtraction
+    return a - b  # Bug: should be subtraction
 
 
 def multiply(a, b):
