@@ -1,6 +1,6 @@
 
 def add(a, b):
-    return a - b  # Bug: should be addition
+    return a + b  # Bug: should be addition
 
 
 def subtract(a, b):
